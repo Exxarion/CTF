@@ -1,0 +1,14 @@
+name: CTF
+version: 1.0
+api: 1.13.0
+main: CTF\Main.php //Might be changed
+author: Exxarion
+description: CTF (Capture the Flag) minigame for MCPE
+commands:
+ ctf:
+  description: "Capture The Flag commands"
+  permission: ctf.cmd
+permissions:
+  ctf.cmd:
+    description: "Allows use of all CTF commands"
+    default: op
