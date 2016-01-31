@@ -1,7 +1,7 @@
 name: CTF
 version: 1.0
 api: 1.13.0
-main: CTF\Main.php //Might be changed
+main: CTF\Main.php
 author: Exxarion
 description: CTF (Capture the Flag) minigame for MCPE
 commands:
